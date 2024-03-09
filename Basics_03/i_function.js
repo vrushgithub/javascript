@@ -34,6 +34,7 @@ function loginuserMessage(username){
 // console.log(loginuserMessage("sonakshi"))
 console.log(loginuserMessage());
 
+// rest or spread Operator
 function calculateCartPrice(...num1){
     return num1
 }
